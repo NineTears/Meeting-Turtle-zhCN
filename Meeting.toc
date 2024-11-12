@@ -1,0 +1,20 @@
+## Interface: 11200
+## Title: Meeting
+## Title-zhCN: 集合石 Meeting
+## Version: 0.11.3
+## Author: 龟壳
+## SavedVariablesPerCharacter: MEETING_DB
+
+Util.lua
+Compat.lua
+Init.lua
+GUI.lua
+Message.lua
+Meeting.lua
+
+Float.lua
+Creator.lua
+Browser.lua
+
+
+## X-Turtle-Shell-Version: 1712765340
